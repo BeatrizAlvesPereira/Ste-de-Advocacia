@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.secao-titulo h1{
+    font-size: 30px;
+    padding: 20px 50px;
+    margin: 0 auto;
+    width: 900px;
+    text-align: left;
+}
+.secao-topo-imagem{
+    background-image: url("imgCSS/capa.jpg");
+    background-size: cover;
+    min-height: 600px;
+    padding-top: 20px;
+}
+h1, h2, h3{
+    text-align: right;
+    width: 1200px;
+    margin: 0;
+}
+h2{
+    font-size: 28px;
+    padding: 0 50px;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 0;
+}
+h3{
+    font-size: 20px;
+    padding: 0 50px;
+    margin: auto 0;
+
+}
+.secao-conteudo{
+    text-align: justify;
+    width: 800px;
+    margin: 60px auto;
+    
+}
+img{
+    width: 263px;
+    height: 200px;
+}
+span{
+    border-left: 1px solid #000000;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.secao-conteudo-imagem{
+    background-image: url("imgCSS/fundo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 150px;
+    padding-top: 80px;
+}
+.secao-titulo h3{
+    font-size: 30px;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px 0;
+    margin: 0 auto;
+    width: 125px;
+    text-align: center;
+}
+.secao-conteudo-atuacao, .secao-conteudo-contato{
+    text-align: justify;
+    width: 800px;
+    margin: 60px auto;
+}
+.secao-conteudo-atuacao h4{
+    text-align: justify;
+}
+p{
+    line-height: 26px;
+}
